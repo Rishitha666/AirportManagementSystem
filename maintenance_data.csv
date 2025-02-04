@@ -1,0 +1,95 @@
+Aircraft ID,Maintenance Status,Fueling Status,Weather Impact
+A751,Scheduled,Pending,Severe
+A645,Completed,Done,None
+A513,Completed,Done,Severe
+A400,Pending,Done,None
+A242,In Progress,Done,None
+A239,Scheduled,Done,None
+A178,In Progress,Done,None
+A316,Pending,Done,Minor
+A338,Pending,In Progress,None
+A548,In Progress,Pending,Minor
+A409,In Progress,In Progress,Minor
+A959,Scheduled,In Progress,Minor
+A471,Completed,In Progress,Minor
+A277,Pending,Pending,Minor
+A845,In Progress,In Progress,None
+A130,In Progress,Pending,Minor
+A782,Completed,Done,Severe
+A784,Completed,In Progress,Minor
+A989,In Progress,Pending,Minor
+A997,Completed,In Progress,None
+A101,Scheduled,In Progress,Severe
+A820,Scheduled,Done,Minor
+A832,Pending,In Progress,None
+A978,In Progress,Done,Severe
+A857,In Progress,In Progress,Severe
+A211,Pending,Pending,Severe
+A368,Pending,Done,Severe
+A874,Completed,Done,Minor
+A311,Completed,Pending,None
+A542,In Progress,Done,Minor
+A488,Completed,In Progress,None
+A443,In Progress,Pending,Severe
+A465,In Progress,Done,Severe
+A697,Completed,In Progress,Severe
+A664,In Progress,Pending,Severe
+A812,In Progress,Done,Severe
+A113,Scheduled,Done,Severe
+A498,Completed,Pending,Severe
+A942,Completed,In Progress,Minor
+A807,In Progress,In Progress,None
+A844,Pending,In Progress,None
+A788,Scheduled,Pending,Minor
+A288,In Progress,Done,None
+A846,Scheduled,Done,Severe
+A313,Completed,In Progress,Minor
+A578,Scheduled,Done,Minor
+A227,Pending,In Progress,Severe
+A771,Pending,Done,Severe
+A288,Scheduled,Pending,None
+A472,Completed,In Progress,Minor
+A227,Pending,Pending,None
+A203,Pending,In Progress,None
+A139,Completed,In Progress,Severe
+A823,In Progress,In Progress,Minor
+A986,Pending,Done,Minor
+A434,Pending,Done,None
+A428,Completed,Pending,Minor
+A445,Pending,Done,Severe
+A361,Pending,In Progress,Minor
+A363,Completed,Done,Minor
+A694,In Progress,Pending,Severe
+A484,Scheduled,In Progress,None
+A231,Scheduled,Pending,Minor
+A918,Scheduled,Pending,None
+A938,Completed,Done,Severe
+A478,In Progress,Done,None
+A384,Pending,In Progress,Severe
+A762,Completed,Pending,Severe
+A502,Scheduled,Done,Severe
+A648,In Progress,In Progress,Severe
+A844,In Progress,In Progress,Minor
+A650,Completed,Pending,Minor
+A553,Scheduled,Pending,Minor
+A175,Pending,In Progress,None
+A597,Completed,Pending,Minor
+A468,In Progress,In Progress,None
+A589,Completed,Done,None
+A258,In Progress,Pending,None
+A793,Completed,Done,None
+A589,Completed,Done,None
+A840,In Progress,Done,Minor
+A139,Pending,Done,None
+A564,Completed,Done,Minor
+A552,In Progress,In Progress,None
+A130,In Progress,Done,Severe
+A197,Completed,Done,None
+A180,Pending,In Progress,Severe
+A812,In Progress,Pending,Severe
+A697,Pending,In Progress,Minor
+A407,Scheduled,Pending,Severe
+A772,Completed,In Progress,Minor
+A408,Pending,Pending,Severe
+A222,In Progress,Done,None
+A195,Scheduled,Pending,Minor

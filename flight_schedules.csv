@@ -1,0 +1,112 @@
+Flight Number,Route,Destination,Departure Time,Arrival Time,Gate Assignment,Delay Status
+AI741,Allahabad - Delhi,Pune,2:11 PM,11:48 AM,B10,Cancelled
+AI311,Bangalore - Nashik,Lucknow,6:14 AM,5:34 PM,B8,On Time
+AI596,Bhubaneswar - Chandigarh,Chennai,1:38 AM,7:27 PM,A4,Delayed
+AI509,Jodhpur - Kolkata,Indore,8:55 AM,2:12 PM,D4,On Time
+AI458,Rajkot - Coimbatore,Dehradun,2:23 AM,10:28 AM,D9,Cancelled
+AI586,Vijayawada - Srinagar,Ludhiana,6:36 AM,6:33 AM,B3,Delayed
+AI729,Ludhiana - Vadodara,Patna,9:25 PM,4:55 AM,D7,Cancelled
+AI788,Meerut - Agra,Bangalore,2:22 AM,9:18 PM,B5,On Time
+AI167,Jodhpur - Bhopal,Kochi,2:18 PM,4:43 AM,B8,Delayed
+AI166,Rajkot - Srinagar,Lucknow,5:39 PM,3:57 AM,B4,Cancelled
+AI518,Nagpur - Nagpur,Jaipur,10:32 PM,12:23 AM,E1,On Time
+AI345,Guwahati - Nagpur,Ludhiana,11:49 PM,4:20 PM,B4,Cancelled
+AI577,Meerut - Chennai,Patna,12:36 AM,8:11 AM,D8,On Time
+AI707,Varanasi - Coimbatore,Pune,7:51 PM,3:49 PM,C7,Delayed
+AI399,Bhopal - Srinagar,Hyderabad,10:16 PM,2:35 PM,D6,Cancelled
+AI562,Chennai - Raipur,Ranchi,6:22 AM,8:19 PM,C7,On Time
+AI829,Bhubaneswar - Patna,Chennai,1:55 AM,8:19 PM,D3,On Time
+AI987,Srinagar - Meerut,Mysore,10:34 AM,1:34 PM,B1,Cancelled
+AI895,Delhi - Vadodara,Kochi,11:24 PM,10:46 AM,C5,Delayed
+AI316,Rajkot - Chandigarh,Ahmedabad,6:49 AM,5:22 PM,A1,Delayed
+AI395,Indore - Pune,Jaipur,2:39 PM,5:36 AM,B8,Delayed
+AI670,Pune - Pune,Chennai,4:15 PM,10:26 PM,E8,On Time
+AI503,Vijayawada - Delhi,Nashik,5:24 AM,9:22 PM,E9,Cancelled
+AI135,Pune - Hyderabad,Guwahati,8:37 PM,5:26 AM,C3,Delayed
+AI967,Bangalore - Nashik,Amritsar,12:15 PM,12:42 PM,D8,Delayed
+AI353,Chandigarh - Srinagar,Nagpur,9:41 PM,5:30 AM,A2,Delayed
+AI123,Guwahati - Delhi,Surat,4:19 AM,11:22 PM,E8,Cancelled
+AI956,Agra - Chandigarh,Lucknow,8:58 PM,11:58 PM,C4,Delayed
+AI984,Kolkata - Dehradun,Varanasi,5:32 PM,5:47 PM,B5,On Time
+AI123,Dehradun - Chennai,Ahmedabad,5:54 AM,6:43 PM,C6,Cancelled
+AI884,Coimbatore - Allahabad,Nagpur,6:32 PM,10:37 AM,C6,Delayed
+AI969,Lucknow - Kolkata,Nashik,10:36 AM,7:55 AM,D5,Delayed
+AI749,Nagpur - Allahabad,Ranchi,4:14 AM,3:41 PM,A4,Cancelled
+AI103,Kanpur - Kanpur,Nagpur,4:55 PM,5:49 PM,C4,Cancelled
+AI990,Patna - Mumbai,Agra,1:40 PM,8:52 PM,A2,On Time
+AI310,Agra - Kochi,Allahabad,9:30 AM,11:46 AM,E9,Cancelled
+AI543,Jodhpur - Patna,Meerut,5:58 AM,6:47 PM,B2,Delayed
+AI733,Hyderabad - Bhubaneswar,Mysore,3:21 AM,1:15 PM,C4,Cancelled
+AI667,Delhi - Pune,Amritsar,12:40 AM,12:34 AM,D4,On Time
+AI863,Meerut - Nagpur,Amritsar,2:19 PM,8:11 AM,E5,Delayed
+AI208,Jodhpur - Chennai,Jodhpur,4:37 PM,8:58 PM,D10,On Time
+AI672,Mysore - Mumbai,Amritsar,3:44 PM,9:22 AM,B1,On Time
+AI882,Chennai - Chandigarh,Lucknow,3:41 AM,10:47 PM,E3,Cancelled
+AI765,Agra - Agra,Ranchi,9:15 PM,5:46 PM,D10,Cancelled
+AI558,Surat - Kochi,Mumbai,6:32 AM,12:30 PM,A7,Delayed
+AI712,Mysore - Kochi,Varanasi,2:31 AM,10:26 AM,D5,Cancelled
+AI492,Ahmedabad - Delhi,Varanasi,12:53 AM,2:48 AM,A10,On Time
+AI269,Allahabad - Kochi,Raipur,6:52 PM,1:15 PM,A10,Cancelled
+AI177,Jodhpur - Delhi,Amritsar,11:46 AM,10:18 AM,B1,Cancelled
+AI321,Rajkot - Srinagar,Surat,9:24 AM,2:22 AM,B10,Delayed
+AI627,Meerut - Vadodara,Indore,11:11 PM,6:24 AM,B3,Delayed
+AI775,Pune - Surat,Coimbatore,3:25 AM,12:16 AM,C1,Delayed
+AI423,Varanasi - Vijayawada,Srinagar,12:20 PM,10:41 AM,B5,Delayed
+AI638,Surat - Meerut,Chandigarh,8:39 PM,2:45 AM,B9,Delayed
+AI329,Agra - Coimbatore,Amritsar,9:12 AM,12:11 AM,E7,On Time
+AI572,Jaipur - Bangalore,Guwahati,6:37 AM,2:35 PM,D7,Delayed
+AI542,Srinagar - Bhubaneswar,Srinagar,8:58 AM,1:50 PM,E8,Cancelled
+AI864,Surat - Ludhiana,Lucknow,7:58 PM,6:16 AM,D1,Cancelled
+AI352,Lucknow - Raipur,Pune,7:54 AM,11:59 PM,A10,On Time
+AI284,Jaipur - Raipur,Kolkata,3:42 AM,1:21 PM,E8,On Time
+AI270,Allahabad - Kochi,Surat,8:18 AM,4:15 AM,D7,Cancelled
+AI199,Jodhpur - Amritsar,Bangalore,8:55 PM,9:32 AM,E5,Cancelled
+AI652,Srinagar - Jaipur,Jaipur,10:57 PM,6:21 AM,A6,Delayed
+AI148,Indore - Kochi,Meerut,5:28 PM,1:19 PM,D7,Delayed
+AI604,Nagpur - Agra,Chennai,7:39 AM,2:17 AM,E10,Delayed
+AI463,Patna - Delhi,Pune,4:58 PM,8:55 AM,B1,Delayed
+AI630,Rajkot - Jaipur,Vijayawada,6:12 AM,9:11 AM,A9,On Time
+AI489,Rajkot - Jodhpur,Meerut,11:44 PM,1:12 PM,D9,Cancelled
+AI747,Delhi - Dehradun,Vadodara,2:15 PM,6:18 PM,A3,Delayed
+AI331,Patna - Ranchi,Guwahati,12:50 PM,12:58 PM,E1,Delayed
+AI391,Ahmedabad - Agra,Vijayawada,10:42 AM,5:28 PM,D7,Delayed
+AI809,Bangalore - Nashik,Bangalore,12:38 PM,9:12 PM,B6,Cancelled
+AI304,Ahmedabad - Ludhiana,Meerut,10:21 PM,10:22 PM,B10,Delayed
+AI243,Kolkata - Kochi,Chennai,2:44 PM,11:10 AM,C6,Cancelled
+AI939,Chandigarh - Agra,Ludhiana,9:46 PM,4:33 AM,A9,Cancelled
+AI556,Lucknow - Meerut,Coimbatore,9:46 AM,4:12 AM,A10,Delayed
+AI307,Jodhpur - Ahmedabad,Dehradun,9:31 PM,3:12 AM,D9,Cancelled
+AI472,Surat - Guwahati,Coimbatore,4:43 PM,2:40 AM,C9,On Time
+AI981,Raipur - Surat,Amritsar,11:22 AM,11:56 PM,C2,Cancelled
+AI198,Hyderabad - Nashik,Kanpur,3:18 AM,10:31 PM,E2,On Time
+AI876,Delhi - Nashik,Ludhiana,4:53 AM,11:27 AM,A4,Delayed
+AI464,Amritsar - Vijayawada,Kanpur,4:53 AM,1:53 AM,A2,Cancelled
+AI134,Delhi - Chennai,Bhubaneswar,1:34 PM,11:12 PM,A9,On Time
+AI498,Vadodara - Delhi,Bhopal,2:25 PM,2:58 AM,C4,Cancelled
+AI603,Srinagar - Coimbatore,Surat,10:20 PM,4:17 AM,B9,Cancelled
+AI668,Lucknow - Guwahati,Mumbai,3:50 PM,3:32 PM,B4,Cancelled
+AI279,Ludhiana - Varanasi,Jodhpur,7:29 PM,4:30 PM,A2,On Time
+AI925,Indore - Amritsar,Nashik,5:30 PM,1:10 AM,B4,Delayed
+AI435,Indore - Vadodara,Ahmedabad,6:14 PM,1:32 PM,A9,Delayed
+AI144,Ahmedabad - Jodhpur,Agra,5:10 PM,8:18 AM,A1,On Time
+AI188,Srinagar - Bangalore,Kochi,4:37 PM,1:38 AM,B4,Delayed
+AI207,Indore - Lucknow,Indore,4:31 AM,2:21 PM,D3,Delayed
+AI141,Kochi - Lucknow,Meerut,10:55 PM,6:12 PM,C5,Delayed
+AI180,Patna - Raipur,Chennai,7:50 PM,2:53 AM,C1,Cancelled
+AI639,Guwahati - Surat,Kochi,8:57 AM,5:59 PM,D9,Cancelled
+AI856,Chandigarh - Chennai,Jodhpur,9:30 PM,7:42 PM,B7,Cancelled
+AI795,Kolkata - Coimbatore,Bhubaneswar,9:25 AM,6:30 PM,B10,Delayed
+AI976,Kanpur - Chennai,Pune,12:19 PM,5:48 PM,B9,Delayed
+AI925,Srinagar - Surat,Lucknow,8:42 AM,12:55 AM,C3,Cancelled
+AI564,Kochi - Coimbatore,Chandigarh,4:49 AM,6:36 AM,B10,Cancelled
+AI655,Delhi - Hyderabad,Mysore,8:47 AM,4:58 PM,B3,Cancelled
+AI102,Coimbatore - Ranchi,Ranchi,6:22 PM,4:42 PM,A8,Delayed
+AI592,Amritsar - Surat,Bhubaneswar,3:22 PM,9:52 PM,E1,On Time
+AI627,Surat - Srinagar,Hyderabad,9:32 AM,5:38 AM,C4,On Time
+AI503,Lucknow - Vadodara,Dehradun,1:24 PM,4:23 PM,B2,On Time
+AI353,Bhubaneswar - Kolkata,Chandigarh,6:57 PM,3:18 AM,A6,On Time
+AI489,Chandigarh - Bangalore,Meerut,8:44 AM,4:52 PM,C4,Cancelled
+AI266,Allahabad - Bangalore,Chennai,9:59 PM,4:42 PM,B6,On Time
+AI315,Bhubaneswar - Lucknow,Mumbai,2:17 PM,10:10 PM,A3,Cancelled
+AI577,Bangalore - Delhi,Varanasi,3:56 AM,7:34 PM,B6,Cancelled
+AI165,Surat - Indore,Patna,2:25 PM,6:55 AM,D7,On Time

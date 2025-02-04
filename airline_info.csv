@@ -1,0 +1,114 @@
+Airline Name,Airline Code,Fleet Size,Aircraft Types,Partnerships,Ticket Price Range
+Air India,AI98,254,Airbus,SkyTeam,₹15504
+IndiGo,AI78,272,ATR,Star Alliance,₹5387
+Air India,AI66,223,Boeing,Star Alliance,₹11185
+GoAir,AI54,225,ATR,OneWorld,₹12249
+SpiceJet,AI15,212,ATR,SkyTeam,₹13892
+GoAir,AI79,165,ATR,Star Alliance,₹16042
+IndiGo,AI11,134,Boeing,Star Alliance,₹5742
+Air India,AI19,293,Airbus,OneWorld,₹19697
+GoAir,AI10,279,Airbus,OneWorld,₹17581
+GoAir,AI56,164,Boeing,OneWorld,₹12556
+IndiGo,AI53,55,Airbus,OneWorld,₹3027
+IndiGo,AI49,127,Boeing,OneWorld,₹15830
+GoAir,AI44,299,Boeing,OneWorld,₹14408
+Air India,AI18,217,Boeing,OneWorld,₹10754
+SpiceJet,AI80,199,ATR,Star Alliance,₹19047
+SpiceJet,AI75,215,ATR,OneWorld,₹12363
+Air India,AI68,119,ATR,OneWorld,₹6071
+SpiceJet,AI28,104,Airbus,Star Alliance,₹5406
+IndiGo,AI87,238,Boeing,OneWorld,₹4105
+IndiGo,AI36,260,Boeing,Star Alliance,₹17768
+Vistara,AI13,288,Airbus,SkyTeam,₹11995
+Vistara,AI69,127,Boeing,OneWorld,₹9064
+Vistara,AI71,134,Boeing,Star Alliance,₹4479
+IndiGo,AI47,70,Airbus,SkyTeam,₹17590
+Air India,AI72,235,Boeing,OneWorld,₹10386
+GoAir,AI89,242,ATR,Star Alliance,₹12669
+SpiceJet,AI14,287,ATR,SkyTeam,₹18616
+IndiGo,AI48,147,Airbus,Star Alliance,₹9667
+Air India,AI45,225,Airbus,SkyTeam,₹4960
+AirAsia India,AI69,290,Boeing,SkyTeam,₹18786
+GoAir,AI91,204,ATR,Star Alliance,₹19647
+Air India,AI15,140,Boeing,SkyTeam,₹11579
+Vistara,AI18,277,ATR,OneWorld,₹15426
+Vistara,AI18,63,ATR,OneWorld,₹6756
+AirAsia India,AI44,171,Boeing,OneWorld,₹4872
+Air India,AI35,115,ATR,Star Alliance,₹16073
+Vistara,AI12,211,Airbus,SkyTeam,₹3043
+IndiGo,AI91,163,Boeing,SkyTeam,₹19327
+SpiceJet,AI61,75,Airbus,SkyTeam,₹5022
+Vistara,AI91,245,Boeing,OneWorld,₹19378
+IndiGo,AI86,107,Boeing,OneWorld,₹4809
+IndiGo,AI70,74,ATR,Star Alliance,₹7109
+Vistara,AI57,137,ATR,SkyTeam,₹8161
+SpiceJet,AI95,297,ATR,SkyTeam,₹7936
+Vistara,AI89,193,Boeing,OneWorld,₹19969
+AirAsia India,AI22,196,ATR,OneWorld,₹19808
+Air India,AI80,189,Boeing,SkyTeam,₹13645
+AirAsia India,AI39,285,ATR,OneWorld,₹9732
+GoAir,AI80,148,ATR,OneWorld,₹17292
+Air India,AI31,132,ATR,OneWorld,₹10942
+SpiceJet,AI25,138,Airbus,SkyTeam,₹11109
+GoAir,AI57,63,ATR,SkyTeam,₹10633
+AirAsia India,AI20,173,Boeing,Star Alliance,₹6911
+Vistara,AI80,247,Boeing,SkyTeam,₹6282
+GoAir,AI98,166,Airbus,SkyTeam,₹12710
+GoAir,AI15,179,Boeing,OneWorld,₹4905
+GoAir,AI46,132,Airbus,SkyTeam,₹3527
+Air India,AI99,191,ATR,Star Alliance,₹12516
+GoAir,AI21,58,Airbus,Star Alliance,₹13512
+IndiGo,AI62,54,ATR,Star Alliance,₹17308
+Vistara,AI45,276,Boeing,Star Alliance,₹4741
+AirAsia India,AI98,293,ATR,Star Alliance,₹11890
+SpiceJet,AI84,231,Boeing,OneWorld,₹4405
+SpiceJet,AI35,253,ATR,OneWorld,₹17372
+AirAsia India,AI81,213,ATR,OneWorld,₹17517
+Air India,AI45,197,Boeing,SkyTeam,₹3267
+AirAsia India,AI14,284,Airbus,OneWorld,₹13017
+GoAir,AI97,219,Boeing,OneWorld,₹4594
+GoAir,AI89,229,Boeing,SkyTeam,₹6622
+Air India,AI64,69,ATR,SkyTeam,₹13914
+SpiceJet,AI80,268,Boeing,SkyTeam,₹10495
+Air India,AI31,272,Boeing,OneWorld,₹16589
+Vistara,AI60,111,Boeing,Star Alliance,₹17098
+AirAsia India,AI42,117,Airbus,OneWorld,₹6529
+Air India,AI76,136,Boeing,OneWorld,₹12157
+AirAsia India,AI85,161,ATR,SkyTeam,₹13598
+SpiceJet,AI87,258,Airbus,OneWorld,₹9774
+SpiceJet,AI47,234,Airbus,OneWorld,₹11827
+SpiceJet,AI95,131,Airbus,SkyTeam,₹9947
+Vistara,AI57,240,Boeing,OneWorld,₹16488
+GoAir,AI97,299,ATR,Star Alliance,₹19564
+SpiceJet,AI65,296,Airbus,OneWorld,₹9606
+SpiceJet,AI96,122,Airbus,Star Alliance,₹15432
+Air India,AI34,84,Boeing,Star Alliance,₹4833
+AirAsia India,AI94,280,Boeing,OneWorld,₹9656
+Vistara,AI73,80,Boeing,SkyTeam,₹8117
+Air India,AI75,283,Airbus,Star Alliance,₹6896
+Air India,AI83,212,Airbus,OneWorld,₹19867
+AirAsia India,AI32,149,Boeing,Star Alliance,₹12439
+Air India,AI98,226,ATR,OneWorld,₹19486
+IndiGo,AI26,141,ATR,SkyTeam,₹18155
+IndiGo,AI86,87,Boeing,OneWorld,₹12194
+GoAir,AI70,197,ATR,SkyTeam,₹3310
+IndiGo,AI43,121,ATR,Star Alliance,₹4168
+SpiceJet,AI59,269,Boeing,SkyTeam,₹3469
+AirAsia India,AI32,193,Boeing,OneWorld,₹19270
+Air India,AI36,143,ATR,Star Alliance,₹15437
+GoAir,AI19,122,Boeing,SkyTeam,₹16379
+GoAir,AI86,118,Boeing,SkyTeam,₹7243
+SpiceJet,AI43,66,Airbus,Star Alliance,₹18930
+Vistara,AI43,97,ATR,SkyTeam,₹10678
+Air India,AI75,279,ATR,OneWorld,₹8402
+GoAir,AI94,292,Boeing,OneWorld,₹6285
+IndiGo,AI13,159,Boeing,Star Alliance,₹14780
+AirAsia India,AI87,162,ATR,OneWorld,₹18638
+Air India,AI78,115,Airbus,OneWorld,₹18636
+IndiGo,AI27,162,Boeing,SkyTeam,₹15725
+AirAsia India,AI60,193,Airbus,SkyTeam,₹16098
+Air India,AI19,57,Airbus,OneWorld,₹19163
+GoAir,AI45,95,Boeing,OneWorld,₹10823
+AirAsia India,AI69,84,ATR,OneWorld,₹9412
+Air India,AI82,105,Airbus,Star Alliance,₹6127
+AirAsia India,AI75,217,Boeing,Star Alliance,₹18265

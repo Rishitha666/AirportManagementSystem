@@ -1,0 +1,113 @@
+Facility ID,Facility Type,Location,Availability
+4001,Check-in Counter,R2,Open
+4002,Lounge,G6,Under Maintenance
+4003,Terminal,G20,Open
+4004,Terminal,B18,Occupied
+4005,Baggage Claim,P7,Under Maintenance
+4006,Parking,G3,Occupied
+4007,Gate,G19,Available
+4008,Gate,L18,Under Maintenance
+4009,Lounge,R12,Under Maintenance
+4010,Lounge,B17,Open
+4011,Gate,T17,Open
+4012,Parking,T8,Under Maintenance
+4013,Lounge,B20,Open
+4014,Parking,R8,Occupied
+4015,Runway,R7,Occupied
+4016,Gate,G14,Occupied
+4017,Parking,C11,Occupied
+4018,Baggage Claim,L1,Under Maintenance
+4019,Parking,P15,Available
+4020,Terminal,R4,Occupied
+4021,Lounge,C11,Occupied
+4022,Terminal,B1,Occupied
+4023,Lounge,G15,Available
+4024,Terminal,R15,Under Maintenance
+4025,Gate,T3,Open
+4026,Runway,B7,Occupied
+4027,Lounge,G3,Available
+4028,Runway,G3,Open
+4029,Baggage Claim,R12,Occupied
+4030,Parking,G11,Open
+4031,Lounge,G18,Open
+4032,Gate,L13,Occupied
+4033,Gate,G6,Open
+4034,Terminal,T1,Open
+4035,Terminal,P3,Available
+4036,Check-in Counter,C15,Available
+4037,Check-in Counter,P10,Available
+4038,Terminal,B1,Available
+4039,Gate,G16,Occupied
+4040,Baggage Claim,B19,Open
+4041,Runway,R14,Open
+4042,Lounge,B5,Available
+4043,Runway,T10,Available
+4044,Runway,C15,Occupied
+4045,Baggage Claim,R18,Available
+4046,Lounge,T13,Under Maintenance
+4047,Runway,T3,Occupied
+4048,Gate,B4,Available
+4049,Runway,R5,Open
+4050,Baggage Claim,R12,Occupied
+4051,Runway,C5,Occupied
+4052,Gate,B12,Occupied
+4053,Terminal,P8,Occupied
+4054,Lounge,P2,Under Maintenance
+4055,Runway,C20,Under Maintenance
+4056,Runway,P16,Available
+4057,Runway,R14,Open
+4058,Lounge,L5,Occupied
+4059,Runway,L3,Available
+4060,Check-in Counter,C8,Available
+4061,Lounge,R7,Available
+4062,Check-in Counter,C3,Open
+4063,Lounge,C7,Open
+4064,Terminal,T4,Under Maintenance
+4065,Check-in Counter,P17,Open
+4066,Gate,B10,Open
+4067,Lounge,P18,Open
+4068,Terminal,T20,Open
+4069,Lounge,R20,Under Maintenance
+4070,Runway,R9,Under Maintenance
+4071,Baggage Claim,P7,Occupied
+4072,Runway,P9,Open
+4073,Baggage Claim,C20,Under Maintenance
+4074,Terminal,P20,Available
+4075,Parking,R5,Open
+4076,Runway,G13,Occupied
+4077,Runway,G6,Under Maintenance
+4078,Baggage Claim,C15,Available
+4079,Gate,P19,Occupied
+4080,Terminal,C19,Under Maintenance
+4081,Gate,R18,Occupied
+4082,Baggage Claim,T5,Under Maintenance
+4083,Lounge,T19,Open
+4084,Lounge,P3,Under Maintenance
+4085,Terminal,R18,Available
+4086,Gate,T7,Open
+4087,Lounge,C9,Open
+4088,Parking,P6,Under Maintenance
+4089,Lounge,P7,Under Maintenance
+4090,Baggage Claim,P5,Under Maintenance
+4091,Baggage Claim,B18,Occupied
+4092,Runway,R9,Under Maintenance
+4093,Baggage Claim,P13,Occupied
+4094,Runway,C8,Occupied
+4095,Check-in Counter,R9,Under Maintenance
+4096,Runway,P10,Open
+4097,Gate,C10,Open
+4098,Gate,G12,Occupied
+4099,Terminal,T12,Under Maintenance
+4100,Parking,G9,Available
+4101,Gate,C2,Occupied
+4102,Runway,T11,Under Maintenance
+4103,Lounge,P16,Under Maintenance
+4104,Gate,B3,Under Maintenance
+4105,Check-in Counter,B1,Occupied
+4106,Parking,T19,Available
+4107,Gate,R7,Open
+4108,Parking,B5,Open
+4109,Lounge,R9,Available
+4110,Baggage Claim,P15,Open
+4111,Lounge,T9,Open
+4112,Baggage Claim,C19,Available

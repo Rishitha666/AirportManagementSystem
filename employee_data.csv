@@ -1,0 +1,100 @@
+Employee ID,Employee Name,Role,Shift,Security Clearance Level
+3001,Sumit Chauhan,Cabin Crew,Morning,High
+3002,Amit Sharma,Cabin Crew,Morning,High
+3003,Manisha Joshi,Security,Morning,High
+3004,Yogesh Pandey,Pilot,Evening,Low
+3005,Amit Sharma,Ground Staff,Night,High
+3006,Simran Kaur,Cabin Crew,Evening,Low
+3007,Meena Pillai,Cabin Crew,Night,Medium
+3008,Vinod Shukla,Ground Staff,Night,Low
+3009,Deepak Choudhary,Cabin Crew,Night,Low
+3010,Sumit Chauhan,Security,Night,High
+3011,Aparna Rao,Pilot,Evening,High
+3012,Simran Kaur,Cabin Crew,Night,High
+3013,Gaurav Mishra,Pilot,Evening,High
+3014,Gaurav Mishra,Security,Evening,Medium
+3015,Rakesh Rao,Security,Morning,High
+3016,Amit Sharma,Cabin Crew,Night,High
+3017,Shruti Saxena,Pilot,Night,Low
+3018,Vinod Shukla,Pilot,Morning,Low
+3019,Komal Shah,Cabin Crew,Morning,Low
+3020,Rajesh Kumar,Cabin Crew,Evening,Low
+3021,Amit Sharma,Ground Staff,Night,Low
+3022,Harish Menon,Cabin Crew,Morning,Medium
+3023,Nikhil Bansal,Ground Staff,Morning,Medium
+3024,Sneha Iyer,Pilot,Evening,Low
+3025,Varun Nanda,Cabin Crew,Night,High
+3026,Rakesh Rao,Pilot,Evening,Medium
+3027,Yogesh Pandey,Security,Morning,High
+3028,Shruti Saxena,Ground Staff,Morning,High
+3029,Amit Sharma,Security,Morning,Medium
+3030,Mohit Kapoor,Cabin Crew,Night,Medium
+3031,Arun Nair,Pilot,Evening,Medium
+3032,Vinod Shukla,Cabin Crew,Morning,High
+3033,Monika Kapoor,Pilot,Morning,Medium
+3034,Ajay Thakur,Security,Evening,Medium
+3035,Sumit Chauhan,Cabin Crew,Night,Low
+3036,Neha Gupta,Security,Evening,High
+3037,Swati Deshmukh,Pilot,Morning,Medium
+3038,Vinod Shukla,Ground Staff,Night,Medium
+3039,Vikram Verma,Pilot,Morning,Low
+3040,Vikram Verma,Ground Staff,Night,Medium
+3041,Preeti Kulkarni,Ground Staff,Evening,Low
+3042,Priya Singh,Security,Night,Medium
+3043,Pooja Mehta,Cabin Crew,Night,High
+3044,Pooja Mehta,Ground Staff,Night,Medium
+3045,Neha Gupta,Ground Staff,Morning,Medium
+3046,Sneha Iyer,Ground Staff,Morning,Medium
+3047,Rajesh Kumar,Cabin Crew,Night,Low
+3048,Rahul Jain,Pilot,Night,High
+3049,Vivek Rathi,Ground Staff,Evening,High
+3050,Varun Nanda,Security,Evening,Medium
+3051,Deepti Paul,Security,Evening,Low
+3052,Shruti Saxena,Ground Staff,Night,High
+3053,Kunal Malhotra,Ground Staff,Night,Low
+3054,Amit Sharma,Security,Evening,Medium
+3055,Vinod Shukla,Ground Staff,Evening,Medium
+3056,Mohit Kapoor,Ground Staff,Evening,Low
+3057,Vikram Verma,Cabin Crew,Evening,Low
+3058,Deepti Paul,Security,Night,High
+3059,Yogesh Pandey,Cabin Crew,Evening,High
+3060,Deepti Paul,Security,Evening,Low
+3061,Sumit Chauhan,Pilot,Evening,Medium
+3062,Monika Kapoor,Ground Staff,Night,Low
+3063,Anjali Yadav,Security,Night,Low
+3064,Sumit Chauhan,Security,Evening,Medium
+3065,Vikram Verma,Pilot,Night,Medium
+3066,Pallavi Das,Ground Staff,Night,Low
+3067,Rajesh Kumar,Security,Night,High
+3068,Preeti Kulkarni,Security,Morning,Medium
+3069,Priya Singh,Pilot,Night,Low
+3070,Preeti Kulkarni,Pilot,Evening,Low
+3071,Ajay Thakur,Ground Staff,Evening,Medium
+3072,Pooja Mehta,Ground Staff,Night,Medium
+3073,Yogesh Pandey,Ground Staff,Morning,Low
+3074,Neha Gupta,Ground Staff,Morning,Low
+3075,Rahul Jain,Security,Morning,Low
+3076,Bhavna Chatterjee,Ground Staff,Night,Low
+3077,Komal Shah,Security,Night,High
+3078,Simran Kaur,Ground Staff,Night,Low
+3079,Varun Nanda,Pilot,Evening,High
+3080,Deepti Paul,Cabin Crew,Evening,High
+3081,Anjali Yadav,Security,Night,Low
+3082,Suresh Reddy,Cabin Crew,Morning,Low
+3083,Tanvi Agrawal,Security,Night,High
+3084,Komal Shah,Ground Staff,Morning,High
+3085,Vinod Shukla,Ground Staff,Night,Low
+3086,Vivek Rathi,Security,Evening,Medium
+3087,Pooja Mehta,Cabin Crew,Night,Low
+3088,Mohit Kapoor,Ground Staff,Night,High
+3089,Monika Kapoor,Ground Staff,Night,High
+3090,Suresh Reddy,Cabin Crew,Evening,High
+3091,Mohit Kapoor,Security,Night,Medium
+3092,Neha Gupta,Security,Morning,High
+3093,Pooja Mehta,Ground Staff,Night,High
+3094,Ritika Bose,Cabin Crew,Night,Low
+3095,Komal Shah,Ground Staff,Night,High
+3096,Ajay Thakur,Pilot,Evening,Medium
+3097,Amit Sharma,Ground Staff,Night,Low
+3098,Simran Kaur,Ground Staff,Evening,Medium
+3099,Neha Gupta,Ground Staff,Evening,Low
